@@ -1,0 +1,5 @@
+/mnt/d/workspace/CppThreadPool/build/Debug/CMakeFiles/edit_cache.dir
+/mnt/d/workspace/CppThreadPool/build/Debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/workspace/CppThreadPool/build/Debug/threadpool/tests/CMakeFiles/threadpool_test.dir
+/mnt/d/workspace/CppThreadPool/build/Debug/threadpool/tests/CMakeFiles/edit_cache.dir
+/mnt/d/workspace/CppThreadPool/build/Debug/threadpool/tests/CMakeFiles/rebuild_cache.dir
